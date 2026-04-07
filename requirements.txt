@@ -2,3 +2,8 @@ pandas==3.0.0
 matplotlib==3.10.8
 nltk==3.9.4
 scikit-learn==1.8.0
+nbdime==3.0.0
+ipython_genutils==0.2.0
+nbstripout>=0.4.0
+jupytext>=1.14.0
+xgboost==1.7.5
