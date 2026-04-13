@@ -7,3 +7,5 @@ ipython_genutils==0.2.0
 nbstripout>=0.4.0
 jupytext>=1.14.0
 xgboost==1.7.5
+numpy
+joblib
